@@ -1,8 +1,8 @@
 # README
 
 ## Dashboard
-- ![Project Dashboard](https://github.com/manez-github/Data-Analysis-on-Data-Professional-Survey-Using-Power-BI/blob/main/Dashboard.png)  
-  *This image shows the main dashboard of the Power BI project.*
+- ![Project Dashboard](https://github.com/manez-github/Bike-Sales-Analysis-Using-Excel/blob/main/Dashboard.png)  
+  *This image shows the dashboard of the Excel Project.*
 
 ## Project Overview
 - **Project Name:** Bike Sales Analysis
